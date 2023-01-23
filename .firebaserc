@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mertangular": {
+      "hosting": {
+        "angular-chat-app": [
+          "mertangular"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mertangular"
+  }
+}
